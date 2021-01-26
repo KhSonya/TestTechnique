@@ -1,0 +1,41 @@
+.card{
+    width:80% !important;
+    text-align: left;
+    margin: 10px;
+
+}
+.container{
+    justify-content: center;
+    margin:auto;
+
+}
+.card-header{
+    text-align: left;
+}
+.comment{
+    background-color:aliceblue;
+    margin: 5px;
+    padding: 8px;
+    border-radius: 5px 5px;}
+.spanForDeletePost{
+    color:red;
+    font-weight: 500;
+    margin-left: 75%;
+}
+.spanForDeleteComment{
+    color:pink;
+    font-weight: 500;
+    margin-left: 5%;
+}
+textarea{
+    border: 2px grey solid;
+    width: 99%;
+    margin-left:1px;
+    border-radius: 5px 5px;
+}
+.btn{
+    margin-left: 90%;
+}
+.txt{
+    font-weight: 700;
+}
